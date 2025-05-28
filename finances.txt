@@ -1,0 +1,9 @@
+101|2025-05-01|income|Active|Paycheck|3000.00
+102|2025-05-02|income|Passive|Interest|120.00
+103|2025-05-03|income|Passive|Rental|850.00
+104|2025-05-03|income|Active|Service|450.00
+105|2025-05-03|expense|Needs|Groceries|200.00
+106|2025-05-04|expense|Needs|Electricity|180.00
+107|2025-05-05|expense|Wants|Shopping|250.00
+108|2025-05-06|expense|Wants|Dining|75.00
+109|2025-05-07|expense|Needs|Phone Bill|60.00
