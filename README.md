@@ -18,4 +18,11 @@ This command-line budget tracking system is written in C and allows users to man
 To compile the program:
 
 ```bash
-gcc -o budgetTracker main.c budget.c data.c ordering.c
+gcc main.c -o main.exe
+```
+
+To compile the program:
+
+```bash
+./main.exe
+```
